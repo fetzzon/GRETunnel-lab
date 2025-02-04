@@ -18,6 +18,18 @@ Strategic implementation of network security architecture utilizing GRE (Generic
 | Routing | Dynamic protocol integration |
 | Security | Base configuration with enhancement pathways |
 
+## Project Structure
+```
+/
+├── docs/
+│   └── laboratory_report.md    # Detailed implementation analysis
+├── configs/
+│   ├── WROCLAW.txt            # Router configurations
+│   └── RZESZOW.txt
+└── topology/
+    └── network_diagram.png     # Architecture visualization
+```
+
 ## Technical Verification
 - Tunnel interface status monitoring
 - End-to-end connectivity validation
@@ -36,6 +48,3 @@ Strategic implementation of network security architecture utilizing GRE (Generic
 - Implementation of advanced authentication protocols
 - Development of comprehensive security policies
 - Addition of monitoring capabilities
-
----
-*Laboratory implementation demonstrating practical application of enterprise networking concepts and security protocols.*
