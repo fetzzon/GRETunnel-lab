@@ -26,8 +26,6 @@ Strategic implementation of network security architecture utilizing GRE (Generic
 - Route propagation confirmation
 - Security measure assessment
 
-```
-
 ## Skills Demonstrated
 - Enterprise Network Configuration
 - Protocol Implementation
@@ -35,11 +33,11 @@ Strategic implementation of network security architecture utilizing GRE (Generic
 - Technical Documentation
 - Security Framework Analysis
 
-## Enhancement Trajectory
-- IPSec integration capability
-- Authentication mechanism implementation
-- Security policy framework development
-- Monitoring system integration
+##Future Development
+- Integration of IPSec for enhanced tunnel security
+- Implementation of advanced authentication protocols
+- Development of comprehensive security policies
+- Addition of monitoring capabilities
 
 ---
 *Laboratory implementation demonstrating practical application of enterprise networking concepts and security protocols.*
