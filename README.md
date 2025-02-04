@@ -1,5 +1,3 @@
-Ah teraz rozumiem! Oto poprzedni README.md już z poprawnym formatowaniem Markdown:
-
 # GRE Tunnel Network Security Implementation
 
 ## Project Overview
@@ -33,7 +31,7 @@ Strategic implementation of network security architecture utilizing GRE (Generic
 - Technical Documentation
 - Security Framework Analysis
 
-##Future Development
+## Future Development
 - Integration of IPSec for enhanced tunnel security
 - Implementation of advanced authentication protocols
 - Development of comprehensive security policies
